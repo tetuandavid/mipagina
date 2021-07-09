@@ -1,3 +1,4 @@
 archivo creado en web para ver desde desktop
 texto anadido desde desktop
 INTROCUZCO ESTE TEXTO EN MI DESKTOP DESDE CLI
+MODIFICACION DESDE ORDENADOR LOCAL FISICO
